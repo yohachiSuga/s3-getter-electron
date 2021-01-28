@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.518.0",
-    "electron": "^6.0.4",
+    "electron": "^9.4.0",
     "electron-reload": "^1.5.0"
   }
 }
